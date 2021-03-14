@@ -11,3 +11,11 @@ To add this bot to a discord server, simply click [this link](https://discord.co
 
 Hope you have fun with the bot!
 If any "unlucky, really" issues arise, please contact me on [LinkedIn](https://www.linkedin.com/in/quinn-ha/) :)
+
+## New changes
+03/14/2021 - Added the unlucky counterpart, lucky!
+
+![Image](https://github.com/quinnha/Unlucky-Bot/blob/main/lucky_steel.jpg)
+
+## Future Plans
+- Add a twitter webhook that automatically sends a message when @ValorantEsports Tweet to stay in touch with Competitive Valorant news.
